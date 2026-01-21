@@ -70,7 +70,7 @@ El análisis se estructura en las siguientes etapas:
 ### Google Colab (recomendado)
 1. Abre https://colab.research.google.com
 2. Haz clic en **File → Upload notebook**
-3. Sube el archivo `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
+3. Sube el archivo `ConnectaTel-main.ipynb`
 4. Sube los datasets (_.csv) al directorio raiz
 5. Ejecuta las celdas en orden (Shift + Enter)
 
